@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Pokemon Catcher</title>
+{% endblock %}
+
+{% block body %}
+<h1>Pokemon Catcher</h1>
+<div class="content">
+
+
+    <div class="form">
+        <form action="/" method="POST">
+        <input type="text" name="content" id="content">
+        <input type="submit" value="Catch">
+    </form>
+    </div>
+    <input type="button" onclick="alert('You have given up')" value="Give up">
+    {% if typo %}
+    <h6 style="color:red;">Did you spell that right?</h6>
+    {% endif %}
+    {% if wrong_type %}
+    <h6 style="color:red;">That pokemon is the wrong type</h6>
+    {% endif %}
+    {% if already_caught %}
+    <h6 style="color:red;">You already caught that pokemon</h6>
+    {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,1578 @@
+Pidgey;Normal Flying 
+Pidgeotto;Normal Flying 
+Pidgeot;Normal Flying 
+Rattata;Normal 
+Raticate;Normal 
+Spearow;Normal Flying 
+Fearow;Normal Flying 
+Jigglypuff;Normal Fairy 
+Wigglytuff;Normal Fairy 
+Meowth;Normal 
+Persian;Normal 
+Farfetchd;Normal Flying 
+Doduo;Normal Flying 
+Dodrio;Normal Flying 
+Lickitung;Normal 
+Chansey;Normal 
+Kangaskhan;Normal 
+Tauros;Normal 
+Ditto;Normal 
+Eevee;Normal 
+Porygon;Normal 
+Snorlax;Normal 
+Sentret;Normal 
+Furret;Normal 
+Hoothoot;Normal Flying 
+Noctowl;Normal Flying 
+Igglybuff;Normal Fairy 
+Aipom;Normal 
+Girafarig;Normal Psychic 
+Dunsparce;Normal 
+Teddiursa;Normal 
+Ursaring;Normal 
+Porygon2;Normal 
+Stantler;Normal 
+Smeargle;Normal 
+Miltank;Normal 
+Blissey;Normal 
+Zigzagoon;Normal 
+Linoone;Normal 
+Taillow;Normal Flying 
+Swellow;Normal Flying 
+Slakoth;Normal 
+Vigoroth;Normal 
+Slaking;Normal 
+Whismur;Normal 
+Loudred;Normal 
+Exploud;Normal 
+Azurill;Normal Fairy 
+Skitty;Normal 
+Delcatty;Normal 
+Spinda;Normal 
+Swablu;Normal Flying 
+Zangoose;Normal 
+Castform;Normal 
+Kecleon;Normal 
+Starly;Normal Flying 
+Staravia;Normal Flying 
+Staraptor;Normal Flying 
+Bidoof;Normal 
+Bibarel;Normal Water 
+Ambipom;Normal 
+Buneary;Normal 
+Lopunny;Normal 
+Glameow;Normal 
+Purugly;Normal 
+Happiny;Normal 
+Chatot;Normal Flying 
+Munchlax;Normal 
+Lickilicky;Normal 
+Porygon-z;Normal 
+Regigigas;Normal 
+Arceus;Normal 
+Patrat;Normal 
+Watchog;Normal 
+Lillipup;Normal 
+Herdier;Normal 
+Stoutland;Normal 
+Pidove;Normal Flying 
+Tranquill;Normal Flying 
+Unfezant;Normal Flying 
+Audino;Normal 
+Minccino;Normal 
+Cinccino;Normal 
+Deerling;Normal Grass 
+Sawsbuck;Normal Grass 
+Bouffalant;Normal 
+Rufflet;Normal Flying 
+Braviary;Normal Flying 
+Meloetta-aria;Normal Psychic 
+Bunnelby;Normal 
+Diggersby;Normal Ground 
+Fletchling;Normal Flying 
+Litleo;Fire Normal 
+Pyroar;Fire Normal 
+Furfrou;Normal 
+Helioptile;Electric Normal 
+Heliolisk;Electric Normal 
+Pikipek;Normal Flying 
+Trumbeak;Normal Flying 
+Toucannon;Normal Flying 
+Yungoos;Normal 
+Gumshoos;Normal 
+Stufful;Normal Fighting 
+Bewear;Normal Fighting 
+Oranguru;Normal Psychic 
+Type-null;Normal 
+Silvally;Normal 
+Komala;Normal 
+Drampa;Normal Dragon 
+Meloetta-pirouette;Normal Fighting 
+Kangaskhan-mega;Normal 
+Audino-mega;Normal Fairy 
+Pidgeot-mega;Normal Flying 
+Lopunny-mega;Normal Fighting 
+Rattata-alola;Dark Normal 
+Raticate-alola;Dark Normal 
+Raticate-totem-alola;Dark Normal 
+Gumshoos-totem;Normal 
+Charmander;Fire 
+Charmeleon;Fire 
+Charizard;Fire Flying 
+Vulpix;Fire 
+Ninetales;Fire 
+Growlithe;Fire 
+Arcanine;Fire 
+Ponyta;Fire 
+Rapidash;Fire 
+Magmar;Fire 
+Flareon;Fire 
+Moltres;Fire Flying 
+Cyndaquil;Fire 
+Quilava;Fire 
+Typhlosion;Fire 
+Slugma;Fire 
+Magcargo;Fire Rock 
+Houndour;Dark Fire 
+Houndoom;Dark Fire 
+Magby;Fire 
+Entei;Fire 
+Ho-oh;Fire Flying 
+Torchic;Fire 
+Combusken;Fire Fighting 
+Blaziken;Fire Fighting 
+Numel;Fire Ground 
+Camerupt;Fire Ground 
+Torkoal;Fire 
+Chimchar;Fire 
+Monferno;Fire Fighting 
+Infernape;Fire Fighting 
+Magmortar;Fire 
+Heatran;Fire Steel 
+Victini;Psychic Fire 
+Tepig;Fire 
+Pignite;Fire Fighting 
+Emboar;Fire Fighting 
+Pansear;Fire 
+Simisear;Fire 
+Darumaka;Fire 
+Darmanitan-standard;Fire 
+Litwick;Ghost Fire 
+Lampent;Ghost Fire 
+Chandelure;Ghost Fire 
+Heatmor;Fire 
+Larvesta;Bug Fire 
+Volcarona;Bug Fire 
+Reshiram;Dragon Fire 
+Fennekin;Fire 
+Braixen;Fire 
+Delphox;Fire Psychic 
+Fletchinder;Fire Flying 
+Talonflame;Fire Flying 
+Litleo;Fire Normal 
+Pyroar;Fire Normal 
+Volcanion;Fire Water 
+Litten;Fire 
+Torracat;Fire 
+Incineroar;Fire Dark 
+Oricorio;Fire Electric Psychic Ghost Flying 
+Salandit;Poison Fire 
+Salazzle;Poison Fire 
+Turtonator;Fire Dragon 
+Blacephalon;Fire Ghost 
+Rotom-heat;Electric Fire 
+Castform-sunny;Fire 
+Darmanitan-zen;Fire Psychic 
+Charizard-mega-x;Fire Dragon 
+Charizard-mega-y;Fire Flying 
+Houndoom-mega;Dark Fire 
+Blaziken-mega;Fire Fighting 
+Groudon-primal;Ground Fire 
+Camerupt-mega;Fire Ground 
+Marowak-alola;Fire Ghost 
+Salazzle-totem;Poison Fire 
+Marowak-totem;Fire Ghost 
+Mankey;Fighting 
+Primeape;Fighting 
+Poliwrath;Water Fighting 
+Machop;Fighting 
+Machoke;Fighting 
+Machamp;Fighting 
+Hitmonlee;Fighting 
+Hitmonchan;Fighting 
+Heracross;Bug Fighting 
+Tyrogue;Fighting 
+Hitmontop;Fighting 
+Combusken;Fire Fighting 
+Blaziken;Fire Fighting 
+Breloom;Grass Fighting 
+Makuhita;Fighting 
+Hariyama;Fighting 
+Meditite;Fighting Psychic 
+Medicham;Fighting Psychic 
+Monferno;Fire Fighting 
+Infernape;Fire Fighting 
+Riolu;Fighting 
+Lucario;Fighting Steel 
+Croagunk;Poison Fighting 
+Toxicroak;Poison Fighting 
+Gallade;Psychic Fighting 
+Pignite;Fire Fighting 
+Emboar;Fire Fighting 
+Timburr;Fighting 
+Gurdurr;Fighting 
+Conkeldurr;Fighting 
+Throh;Fighting 
+Sawk;Fighting 
+Scraggy;Dark Fighting 
+Scrafty;Dark Fighting 
+Mienfoo;Fighting 
+Mienshao;Fighting 
+Cobalion;Steel Fighting 
+Terrakion;Rock Fighting 
+Virizion;Grass Fighting 
+Keldeo-ordinary;Water Fighting 
+Chesnaught;Grass Fighting 
+Pancham;Fighting 
+Pangoro;Fighting Dark 
+Hawlucha;Fighting Flying 
+Crabrawler;Fighting 
+Crabominable;Fighting Ice 
+Stufful;Normal Fighting 
+Bewear;Normal Fighting 
+Passimian;Fighting 
+Hakamo-o;Dragon Fighting 
+Kommo-o;Dragon Fighting 
+Buzzwole;Bug Fighting 
+Pheromosa;Bug Fighting 
+Marshadow;Fighting Ghost 
+Meloetta-pirouette;Normal Fighting 
+Keldeo-resolute;Water Fighting 
+Mewtwo-mega-x;Psychic Fighting 
+Heracross-mega;Bug Fighting 
+Blaziken-mega;Fire Fighting 
+Medicham-mega;Fighting Psychic 
+Lucario-mega;Fighting Steel 
+Gallade-mega;Psychic Fighting 
+Lopunny-mega;Normal Fighting 
+Kommo-o-totem;Dragon Fighting 
+Squirtle;Water 
+Wartortle;Water 
+Blastoise;Water 
+Psyduck;Water 
+Golduck;Water 
+Poliwag;Water 
+Poliwhirl;Water 
+Poliwrath;Water Fighting 
+Tentacool;Water Poison 
+Tentacruel;Water Poison 
+Slowpoke;Water Psychic 
+Slowbro;Water Psychic 
+Seel;Water 
+Dewgong;Water Ice 
+Shellder;Water 
+Cloyster;Water Ice 
+Krabby;Water 
+Kingler;Water 
+Horsea;Water 
+Seadra;Water 
+Goldeen;Water 
+Seaking;Water 
+Staryu;Water 
+Starmie;Water Psychic 
+Magikarp;Water 
+Gyarados;Water Flying 
+Lapras;Water Ice 
+Vaporeon;Water 
+Omanyte;Rock Water 
+Omastar;Rock Water 
+Kabuto;Rock Water 
+Kabutops;Rock Water 
+Totodile;Water 
+Croconaw;Water 
+Feraligatr;Water 
+Chinchou;Water Electric 
+Lanturn;Water Electric 
+Marill;Water Fairy 
+Azumarill;Water Fairy 
+Politoed;Water 
+Wooper;Water Ground 
+Quagsire;Water Ground 
+Slowking;Water Psychic 
+Qwilfish;Water Poison 
+Corsola;Water Rock 
+Remoraid;Water 
+Octillery;Water 
+Mantine;Water Flying 
+Kingdra;Water Dragon 
+Suicune;Water 
+Mudkip;Water 
+Marshtomp;Water Ground 
+Swampert;Water Ground 
+Lotad;Water Grass 
+Lombre;Water Grass 
+Ludicolo;Water Grass 
+Wingull;Water Flying 
+Pelipper;Water Flying 
+Surskit;Bug Water 
+Carvanha;Water Dark 
+Sharpedo;Water Dark 
+Wailmer;Water 
+Wailord;Water 
+Barboach;Water Ground 
+Whiscash;Water Ground 
+Corphish;Water 
+Crawdaunt;Water Dark 
+Feebas;Water 
+Milotic;Water 
+Spheal;Ice Water 
+Sealeo;Ice Water 
+Walrein;Ice Water 
+Clamperl;Water 
+Huntail;Water 
+Gorebyss;Water 
+Relicanth;Water Rock 
+Luvdisc;Water 
+Kyogre;Water 
+Piplup;Water 
+Prinplup;Water 
+Empoleon;Water Steel 
+Bibarel;Normal Water 
+Buizel;Water 
+Floatzel;Water 
+Shellos;Water 
+Gastrodon;Water Ground 
+Finneon;Water 
+Lumineon;Water 
+Mantyke;Water Flying 
+Palkia;Water Dragon 
+Phione;Water 
+Manaphy;Water 
+Oshawott;Water 
+Dewott;Water 
+Samurott;Water 
+Panpour;Water 
+Simipour;Water 
+Tympole;Water 
+Palpitoad;Water Ground 
+Seismitoad;Water Ground 
+Basculin-red-striped;Water 
+Tirtouga;Water Rock 
+Carracosta;Water Rock 
+Ducklett;Water Flying 
+Swanna;Water Flying 
+Frillish;Water Ghost 
+Jellicent;Water Ghost 
+Alomomola;Water 
+Keldeo-ordinary;Water Fighting 
+Froakie;Water 
+Frogadier;Water 
+Greninja;Water Dark 
+Binacle;Rock Water 
+Barbaracle;Rock Water 
+Skrelp;Poison Water 
+Clauncher;Water 
+Clawitzer;Water 
+Volcanion;Fire Water 
+Popplio;Water 
+Brionne;Water 
+Primarina;Water Fairy 
+Wishiwashi-solo;Water 
+Mareanie;Poison Water 
+Toxapex;Poison Water 
+Dewpider;Water Bug 
+Araquanid;Water Bug 
+Wimpod;Bug Water 
+Golisopod;Bug Water 
+Pyukumuku;Water 
+Bruxish;Water Psychic 
+Tapu-fini;Water Fairy 
+Rotom-wash;Electric Water 
+Castform-rainy;Water 
+Basculin-blue-striped;Water 
+Keldeo-resolute;Water Fighting 
+Blastoise-mega;Water 
+Gyarados-mega;Water Dark 
+Swampert-mega;Water Ground 
+Sharpedo-mega;Water Dark 
+Slowbro-mega;Water Psychic 
+Kyogre-primal;Water 
+Greninja-battle-bond;Water Dark 
+Greninja-ash;Water Dark 
+Wishiwashi-school;Water 
+Araquanid-totem;Water Bug 
+Charizard;Fire Flying 
+Butterfree;Bug Flying 
+Pidgey;Normal Flying 
+Pidgeotto;Normal Flying 
+Pidgeot;Normal Flying 
+Spearow;Normal Flying 
+Fearow;Normal Flying 
+Zubat;Poison Flying 
+Golbat;Poison Flying 
+Farfetchd;Normal Flying 
+Doduo;Normal Flying 
+Dodrio;Normal Flying 
+Scyther;Bug Flying 
+Gyarados;Water Flying 
+Aerodactyl;Rock Flying 
+Articuno;Ice Flying 
+Zapdos;Electric Flying 
+Moltres;Fire Flying 
+Dragonite;Dragon Flying 
+Hoothoot;Normal Flying 
+Noctowl;Normal Flying 
+Ledyba;Bug Flying 
+Ledian;Bug Flying 
+Crobat;Poison Flying 
+Togetic;Fairy Flying 
+Natu;Psychic Flying 
+Xatu;Psychic Flying 
+Hoppip;Grass Flying 
+Skiploom;Grass Flying 
+Jumpluff;Grass Flying 
+Yanma;Bug Flying 
+Murkrow;Dark Flying 
+Gligar;Ground Flying 
+Delibird;Ice Flying 
+Mantine;Water Flying 
+Skarmory;Steel Flying 
+Lugia;Psychic Flying 
+Ho-oh;Fire Flying 
+Beautifly;Bug Flying 
+Taillow;Normal Flying 
+Swellow;Normal Flying 
+Wingull;Water Flying 
+Pelipper;Water Flying 
+Masquerain;Bug Flying 
+Ninjask;Bug Flying 
+Swablu;Normal Flying 
+Altaria;Dragon Flying 
+Tropius;Grass Flying 
+Salamence;Dragon Flying 
+Rayquaza;Dragon Flying 
+Starly;Normal Flying 
+Staravia;Normal Flying 
+Staraptor;Normal Flying 
+Mothim;Bug Flying 
+Combee;Bug Flying 
+Vespiquen;Bug Flying 
+Drifloon;Ghost Flying 
+Drifblim;Ghost Flying 
+Honchkrow;Dark Flying 
+Chatot;Normal Flying 
+Mantyke;Water Flying 
+Togekiss;Fairy Flying 
+Yanmega;Bug Flying 
+Gliscor;Ground Flying 
+Pidove;Normal Flying 
+Tranquill;Normal Flying 
+Unfezant;Normal Flying 
+Woobat;Psychic Flying 
+Swoobat;Psychic Flying 
+Sigilyph;Psychic Flying 
+Archen;Rock Flying 
+Archeops;Rock Flying 
+Ducklett;Water Flying 
+Swanna;Water Flying 
+Emolga;Electric Flying 
+Rufflet;Normal Flying 
+Braviary;Normal Flying 
+Vullaby;Dark Flying 
+Mandibuzz;Dark Flying 
+Tornadus-incarnate;Flying 
+Thundurus-incarnate;Electric Flying 
+Landorus-incarnate;Ground Flying 
+Fletchling;Normal Flying 
+Fletchinder;Fire Flying 
+Talonflame;Fire Flying 
+Vivillon;Bug Flying 
+Hawlucha;Fighting Flying 
+Noibat;Flying Dragon 
+Noivern;Flying Dragon 
+Yveltal;Dark Flying 
+Rowlet;Grass Flying 
+Dartrix;Grass Flying 
+Pikipek;Normal Flying 
+Trumbeak;Normal Flying 
+Toucannon;Normal Flying 
+Oricorio-baile;Fire Flying 
+Minior-red-meteor;Rock Flying 
+Celesteela;Steel Flying 
+Shaymin-sky;Grass Flying 
+Rotom-fan;Electric Flying 
+Tornadus-therian;Flying 
+Thundurus-therian;Electric Flying 
+Landorus-therian;Ground Flying 
+Charizard-mega-y;Fire Flying 
+Pinsir-mega;Bug Flying 
+Aerodactyl-mega;Rock Flying 
+Pidgeot-mega;Normal Flying 
+Rayquaza-mega;Dragon Flying 
+Salamence-mega;Dragon Flying 
+Oricorio-pom-pom;Electric Flying 
+Oricorio-pau;Psychic Flying 
+Oricorio-sensu;Ghost Flying 
+Minior-orange-meteor;Rock Flying 
+Minior-yellow-meteor;Rock Flying 
+Minior-green-meteor;Rock Flying 
+Minior-blue-meteor;Rock Flying 
+Minior-indigo-meteor;Rock Flying 
+Minior-violet-meteor;Rock Flying 
+Minior-red;Rock Flying 
+Minior-orange;Rock Flying 
+Minior-yellow;Rock Flying 
+Minior-green;Rock Flying 
+Minior-blue;Rock Flying 
+Minior-indigo;Rock Flying 
+Minior-violet;Rock Flying 
+Bulbasaur;Grass Poison 
+Ivysaur;Grass Poison 
+Venusaur;Grass Poison 
+Oddish;Grass Poison 
+Gloom;Grass Poison 
+Vileplume;Grass Poison 
+Paras;Bug Grass 
+Parasect;Bug Grass 
+Bellsprout;Grass Poison 
+Weepinbell;Grass Poison 
+Victreebel;Grass Poison 
+Exeggcute;Grass Psychic 
+Exeggutor;Grass Psychic 
+Tangela;Grass 
+Chikorita;Grass 
+Bayleef;Grass 
+Meganium;Grass 
+Bellossom;Grass 
+Hoppip;Grass Flying 
+Skiploom;Grass Flying 
+Jumpluff;Grass Flying 
+Sunkern;Grass 
+Sunflora;Grass 
+Celebi;Psychic Grass 
+Treecko;Grass 
+Grovyle;Grass 
+Sceptile;Grass 
+Lotad;Water Grass 
+Lombre;Water Grass 
+Ludicolo;Water Grass 
+Seedot;Grass 
+Nuzleaf;Grass Dark 
+Shiftry;Grass Dark 
+Shroomish;Grass 
+Breloom;Grass Fighting 
+Roselia;Grass Poison 
+Cacnea;Grass 
+Cacturne;Grass Dark 
+Lileep;Rock Grass 
+Cradily;Rock Grass 
+Tropius;Grass Flying 
+Turtwig;Grass 
+Grotle;Grass 
+Torterra;Grass Ground 
+Budew;Grass Poison 
+Roserade;Grass Poison 
+Wormadam-plant;Bug Grass 
+Cherubi;Grass 
+Cherrim;Grass 
+Carnivine;Grass 
+Snover;Grass Ice 
+Abomasnow;Grass Ice 
+Tangrowth;Grass 
+Leafeon;Grass 
+Shaymin-land;Grass 
+Snivy;Grass 
+Servine;Grass 
+Serperior;Grass 
+Pansage;Grass 
+Simisage;Grass 
+Sewaddle;Bug Grass 
+Swadloon;Bug Grass 
+Leavanny;Bug Grass 
+Cottonee;Grass Fairy 
+Whimsicott;Grass Fairy 
+Petilil;Grass 
+Lilligant;Grass 
+Maractus;Grass 
+Deerling;Normal Grass 
+Sawsbuck;Normal Grass 
+Foongus;Grass Poison 
+Amoonguss;Grass Poison 
+Ferroseed;Grass Steel 
+Ferrothorn;Grass Steel 
+Virizion;Grass Fighting 
+Chespin;Grass 
+Quilladin;Grass 
+Chesnaught;Grass Fighting 
+Skiddo;Grass 
+Gogoat;Grass 
+Phantump;Ghost Grass 
+Trevenant;Ghost Grass 
+Pumpkaboo-average;Ghost Grass 
+Gourgeist-average;Ghost Grass 
+Rowlet;Grass Flying 
+Dartrix;Grass Flying 
+Decidueye;Grass Ghost 
+Fomantis;Grass 
+Lurantis;Grass 
+Morelull;Grass Fairy 
+Shiinotic;Grass Fairy 
+Bounsweet;Grass 
+Steenee;Grass 
+Tsareena;Grass 
+Dhelmise;Ghost Grass 
+Tapu-bulu;Grass Fairy 
+Kartana;Grass Steel 
+Shaymin-sky;Grass Flying 
+Rotom-mow;Electric Grass 
+Pumpkaboo-small;Ghost Grass 
+Pumpkaboo-large;Ghost Grass 
+Pumpkaboo-super;Ghost Grass 
+Gourgeist-small;Ghost Grass 
+Gourgeist-large;Ghost Grass 
+Gourgeist-super;Ghost Grass 
+Venusaur-mega;Grass Poison 
+Abomasnow-mega;Grass Ice 
+Sceptile-mega;Grass Dragon 
+Exeggutor-alola;Grass Dragon 
+Lurantis-totem;Grass 
+Bulbasaur;Grass Poison 
+Ivysaur;Grass Poison 
+Venusaur;Grass Poison 
+Weedle;Bug Poison 
+Kakuna;Bug Poison 
+Beedrill;Bug Poison 
+Ekans;Poison 
+Arbok;Poison 
+Nidoran-f;Poison 
+Nidorina;Poison 
+Nidoqueen;Poison Ground 
+Nidoran-m;Poison 
+Nidorino;Poison 
+Nidoking;Poison Ground 
+Zubat;Poison Flying 
+Golbat;Poison Flying 
+Oddish;Grass Poison 
+Gloom;Grass Poison 
+Vileplume;Grass Poison 
+Venonat;Bug Poison 
+Venomoth;Bug Poison 
+Bellsprout;Grass Poison 
+Weepinbell;Grass Poison 
+Victreebel;Grass Poison 
+Tentacool;Water Poison 
+Tentacruel;Water Poison 
+Grimer;Poison 
+Muk;Poison 
+Gastly;Ghost Poison 
+Haunter;Ghost Poison 
+Gengar;Ghost Poison 
+Koffing;Poison 
+Weezing;Poison 
+Spinarak;Bug Poison 
+Ariados;Bug Poison 
+Crobat;Poison Flying 
+Qwilfish;Water Poison 
+Dustox;Bug Poison 
+Roselia;Grass Poison 
+Gulpin;Poison 
+Swalot;Poison 
+Seviper;Poison 
+Budew;Grass Poison 
+Roserade;Grass Poison 
+Stunky;Poison Dark 
+Skuntank;Poison Dark 
+Skorupi;Poison Bug 
+Drapion;Poison Dark 
+Croagunk;Poison Fighting 
+Toxicroak;Poison Fighting 
+Venipede;Bug Poison 
+Whirlipede;Bug Poison 
+Scolipede;Bug Poison 
+Trubbish;Poison 
+Garbodor;Poison 
+Foongus;Grass Poison 
+Amoonguss;Grass Poison 
+Skrelp;Poison Water 
+Dragalge;Poison Dragon 
+Mareanie;Poison Water 
+Toxapex;Poison Water 
+Salandit;Poison Fire 
+Salazzle;Poison Fire 
+Nihilego;Rock Poison 
+Poipole;Poison 
+Naganadel;Poison Dragon 
+Venusaur-mega;Grass Poison 
+Gengar-mega;Ghost Poison 
+Beedrill-mega;Bug Poison 
+Grimer-alola;Poison Dark 
+Muk-alola;Poison Dark 
+Salazzle-totem;Poison Fire 
+Pikachu;Electric 
+Raichu;Electric 
+Magnemite;Electric Steel 
+Magneton;Electric Steel 
+Voltorb;Electric 
+Electrode;Electric 
+Electabuzz;Electric 
+Jolteon;Electric 
+Zapdos;Electric Flying 
+Chinchou;Water Electric 
+Lanturn;Water Electric 
+Pichu;Electric 
+Mareep;Electric 
+Flaaffy;Electric 
+Ampharos;Electric 
+Elekid;Electric 
+Raikou;Electric 
+Electrike;Electric 
+Manectric;Electric 
+Plusle;Electric 
+Minun;Electric 
+Shinx;Electric 
+Luxio;Electric 
+Luxray;Electric 
+Pachirisu;Electric 
+Magnezone;Electric Steel 
+Electivire;Electric 
+Rotom;Electric Ghost 
+Blitzle;Electric 
+Zebstrika;Electric 
+Emolga;Electric Flying 
+Joltik;Bug Electric 
+Galvantula;Bug Electric 
+Tynamo;Electric 
+Eelektrik;Electric 
+Eelektross;Electric 
+Stunfisk;Ground Electric 
+Thundurus-incarnate;Electric Flying 
+Zekrom;Dragon Electric 
+Helioptile;Electric Normal 
+Heliolisk;Electric Normal 
+Dedenne;Electric Fairy 
+Charjabug;Bug Electric 
+Vikavolt;Bug Electric 
+Togedemaru;Electric Steel 
+Tapu-koko;Electric Fairy 
+Xurkitree;Electric 
+Zeraora;Electric 
+Rotom-heat;Electric Fire 
+Rotom-wash;Electric Water 
+Rotom-frost;Electric Ice 
+Rotom-fan;Electric Flying 
+Rotom-mow;Electric Grass 
+Thundurus-therian;Electric Flying 
+Ampharos-mega;Electric Dragon 
+Manectric-mega;Electric 
+Pikachu-rock-star;Electric 
+Pikachu-belle;Electric 
+Pikachu-pop-star;Electric 
+Pikachu-phd;Electric 
+Pikachu-libre;Electric 
+Pikachu-cosplay;Electric 
+Pikachu-original-cap;Electric 
+Pikachu-hoenn-cap;Electric 
+Pikachu-sinnoh-cap;Electric 
+Pikachu-unova-cap;Electric 
+Pikachu-kalos-cap;Electric 
+Pikachu-alola-cap;Electric 
+Raichu-alola;Electric Psychic 
+Geodude-alola;Rock Electric 
+Graveler-alola;Rock Electric 
+Golem-alola;Rock Electric 
+Vikavolt-totem;Bug Electric 
+Oricorio-pom-pom;Electric Flying 
+Pikachu-partner-cap;Electric 
+Togedemaru-totem;Electric Steel 
+Sandshrew;Ground 
+Sandslash;Ground 
+Nidoqueen;Poison Ground 
+Nidoking;Poison Ground 
+Diglett;Ground 
+Dugtrio;Ground 
+Geodude;Rock Ground 
+Graveler;Rock Ground 
+Golem;Rock Ground 
+Onix;Rock Ground 
+Cubone;Ground 
+Marowak;Ground 
+Rhyhorn;Ground Rock 
+Rhydon;Ground Rock 
+Wooper;Water Ground 
+Quagsire;Water Ground 
+Gligar;Ground Flying 
+Steelix;Steel Ground 
+Swinub;Ice Ground 
+Piloswine;Ice Ground 
+Phanpy;Ground 
+Donphan;Ground 
+Larvitar;Rock Ground 
+Pupitar;Rock Ground 
+Marshtomp;Water Ground 
+Swampert;Water Ground 
+Nincada;Bug Ground 
+Numel;Fire Ground 
+Camerupt;Fire Ground 
+Trapinch;Ground 
+Vibrava;Ground Dragon 
+Flygon;Ground Dragon 
+Barboach;Water Ground 
+Whiscash;Water Ground 
+Baltoy;Ground Psychic 
+Claydol;Ground Psychic 
+Groudon;Ground 
+Torterra;Grass Ground 
+Gastrodon;Water Ground 
+Gible;Dragon Ground 
+Gabite;Dragon Ground 
+Garchomp;Dragon Ground 
+Hippopotas;Ground 
+Hippowdon;Ground 
+Rhyperior;Ground Rock 
+Gliscor;Ground Flying 
+Mamoswine;Ice Ground 
+Drilbur;Ground 
+Excadrill;Ground Steel 
+Palpitoad;Water Ground 
+Seismitoad;Water Ground 
+Sandile;Ground Dark 
+Krokorok;Ground Dark 
+Krookodile;Ground Dark 
+Stunfisk;Ground Electric 
+Golett;Ground Ghost 
+Golurk;Ground Ghost 
+Landorus-incarnate;Ground Flying 
+Diggersby;Normal Ground 
+Zygarde;Dragon Ground 
+Mudbray;Ground 
+Mudsdale;Ground 
+Sandygast;Ghost Ground 
+Palossand;Ghost Ground 
+Wormadam-sandy;Bug Ground 
+Landorus-therian;Ground Flying 
+Garchomp-mega;Dragon Ground 
+Swampert-mega;Water Ground 
+Steelix-mega;Steel Ground 
+Groudon-primal;Ground Fire 
+Camerupt-mega;Fire Ground 
+Diglett-alola;Ground Steel 
+Dugtrio-alola;Ground Steel 
+Zygarde-10;Dragon Ground 
+Zygarde-50;Dragon Ground 
+Zygarde-complete;Dragon Ground 
+Abra;Psychic 
+Kadabra;Psychic 
+Alakazam;Psychic 
+Slowpoke;Water Psychic 
+Slowbro;Water Psychic 
+Drowzee;Psychic 
+Hypno;Psychic 
+Exeggcute;Grass Psychic 
+Exeggutor;Grass Psychic 
+Starmie;Water Psychic 
+Mr-mime;Psychic Fairy 
+Jynx;Ice Psychic 
+Mewtwo;Psychic 
+Mew;Psychic 
+Natu;Psychic Flying 
+Xatu;Psychic Flying 
+Espeon;Psychic 
+Slowking;Water Psychic 
+Unown;Psychic 
+Wobbuffet;Psychic 
+Girafarig;Normal Psychic 
+Smoochum;Ice Psychic 
+Lugia;Psychic Flying 
+Celebi;Psychic Grass 
+Ralts;Psychic Fairy 
+Kirlia;Psychic Fairy 
+Gardevoir;Psychic Fairy 
+Meditite;Fighting Psychic 
+Medicham;Fighting Psychic 
+Spoink;Psychic 
+Grumpig;Psychic 
+Lunatone;Rock Psychic 
+Solrock;Rock Psychic 
+Baltoy;Ground Psychic 
+Claydol;Ground Psychic 
+Chimecho;Psychic 
+Wynaut;Psychic 
+Beldum;Steel Psychic 
+Metang;Steel Psychic 
+Metagross;Steel Psychic 
+Latias;Dragon Psychic 
+Latios;Dragon Psychic 
+Jirachi;Steel Psychic 
+Deoxys-normal;Psychic 
+Chingling;Psychic 
+Bronzor;Steel Psychic 
+Bronzong;Steel Psychic 
+Mime-jr;Psychic Fairy 
+Gallade;Psychic Fighting 
+Uxie;Psychic 
+Mesprit;Psychic 
+Azelf;Psychic 
+Cresselia;Psychic 
+Victini;Psychic Fire 
+Munna;Psychic 
+Musharna;Psychic 
+Woobat;Psychic Flying 
+Swoobat;Psychic Flying 
+Sigilyph;Psychic Flying 
+Gothita;Psychic 
+Gothorita;Psychic 
+Gothitelle;Psychic 
+Solosis;Psychic 
+Duosion;Psychic 
+Reuniclus;Psychic 
+Elgyem;Psychic 
+Beheeyem;Psychic 
+Meloetta-aria;Normal Psychic 
+Delphox;Fire Psychic 
+Espurr;Psychic 
+Meowstic-male;Psychic 
+Inkay;Dark Psychic 
+Malamar;Dark Psychic 
+Hoopa;Psychic Ghost 
+Oranguru;Normal Psychic 
+Bruxish;Water Psychic 
+Tapu-lele;Psychic Fairy 
+Cosmog;Psychic 
+Cosmoem;Psychic 
+Solgaleo;Psychic Steel 
+Lunala;Psychic Ghost 
+Necrozma;Psychic 
+Deoxys-attack;Psychic 
+Deoxys-defense;Psychic 
+Deoxys-speed;Psychic 
+Darmanitan-zen;Fire Psychic 
+Meowstic-female;Psychic 
+Alakazam-mega;Psychic 
+Mewtwo-mega-x;Psychic Fighting 
+Mewtwo-mega-y;Psychic 
+Gardevoir-mega;Psychic Fairy 
+Medicham-mega;Fighting Psychic 
+Latias-mega;Dragon Psychic 
+Latios-mega;Dragon Psychic 
+Gallade-mega;Psychic Fighting 
+Slowbro-mega;Water Psychic 
+Metagross-mega;Steel Psychic 
+Hoopa-unbound;Psychic Dark 
+Raichu-alola;Electric Psychic 
+Oricorio-pau;Psychic Flying 
+Necrozma-dusk;Psychic Steel 
+Necrozma-dawn;Psychic Ghost 
+Necrozma-ultra;Psychic Dragon 
+Geodude;Rock Ground 
+Graveler;Rock Ground 
+Golem;Rock Ground 
+Onix;Rock Ground 
+Rhyhorn;Ground Rock 
+Rhydon;Ground Rock 
+Omanyte;Rock Water 
+Omastar;Rock Water 
+Kabuto;Rock Water 
+Kabutops;Rock Water 
+Aerodactyl;Rock Flying 
+Sudowoodo;Rock 
+Shuckle;Bug Rock 
+Magcargo;Fire Rock 
+Corsola;Water Rock 
+Larvitar;Rock Ground 
+Pupitar;Rock Ground 
+Tyranitar;Rock Dark 
+Nosepass;Rock 
+Aron;Steel Rock 
+Lairon;Steel Rock 
+Aggron;Steel Rock 
+Lunatone;Rock Psychic 
+Solrock;Rock Psychic 
+Lileep;Rock Grass 
+Cradily;Rock Grass 
+Anorith;Rock Bug 
+Armaldo;Rock Bug 
+Relicanth;Water Rock 
+Regirock;Rock 
+Cranidos;Rock 
+Rampardos;Rock 
+Shieldon;Rock Steel 
+Bastiodon;Rock Steel 
+Bonsly;Rock 
+Rhyperior;Ground Rock 
+Probopass;Rock Steel 
+Roggenrola;Rock 
+Boldore;Rock 
+Gigalith;Rock 
+Dwebble;Bug Rock 
+Crustle;Bug Rock 
+Tirtouga;Water Rock 
+Carracosta;Water Rock 
+Archen;Rock Flying 
+Archeops;Rock Flying 
+Terrakion;Rock Fighting 
+Binacle;Rock Water 
+Barbaracle;Rock Water 
+Tyrunt;Rock Dragon 
+Tyrantrum;Rock Dragon 
+Amaura;Rock Ice 
+Aurorus;Rock Ice 
+Carbink;Rock Fairy 
+Diancie;Rock Fairy 
+Rockruff;Rock 
+Lycanroc-midday;Rock 
+Minior-red-meteor;Rock Flying 
+Nihilego;Rock Poison 
+Stakataka;Rock Steel 
+Aerodactyl-mega;Rock Flying 
+Tyranitar-mega;Rock Dark 
+Diancie-mega;Rock Fairy 
+Geodude-alola;Rock Electric 
+Graveler-alola;Rock Electric 
+Golem-alola;Rock Electric 
+Lycanroc-midnight;Rock 
+Minior-orange-meteor;Rock Flying 
+Minior-yellow-meteor;Rock Flying 
+Minior-green-meteor;Rock Flying 
+Minior-blue-meteor;Rock Flying 
+Minior-indigo-meteor;Rock Flying 
+Minior-violet-meteor;Rock Flying 
+Minior-red;Rock Flying 
+Minior-orange;Rock Flying 
+Minior-yellow;Rock Flying 
+Minior-green;Rock Flying 
+Minior-blue;Rock Flying 
+Minior-indigo;Rock Flying 
+Minior-violet;Rock Flying 
+Rockruff-own-tempo;Rock 
+Lycanroc-dusk;Rock 
+Dewgong;Water Ice 
+Cloyster;Water Ice 
+Jynx;Ice Psychic 
+Lapras;Water Ice 
+Articuno;Ice Flying 
+Sneasel;Dark Ice 
+Swinub;Ice Ground 
+Piloswine;Ice Ground 
+Delibird;Ice Flying 
+Smoochum;Ice Psychic 
+Snorunt;Ice 
+Glalie;Ice 
+Spheal;Ice Water 
+Sealeo;Ice Water 
+Walrein;Ice Water 
+Regice;Ice 
+Snover;Grass Ice 
+Abomasnow;Grass Ice 
+Weavile;Dark Ice 
+Glaceon;Ice 
+Mamoswine;Ice Ground 
+Froslass;Ice Ghost 
+Vanillite;Ice 
+Vanillish;Ice 
+Vanilluxe;Ice 
+Cubchoo;Ice 
+Beartic;Ice 
+Cryogonal;Ice 
+Kyurem;Dragon Ice 
+Amaura;Rock Ice 
+Aurorus;Rock Ice 
+Bergmite;Ice 
+Avalugg;Ice 
+Crabominable;Fighting Ice 
+Rotom-frost;Electric Ice 
+Castform-snowy;Ice 
+Kyurem-black;Dragon Ice 
+Kyurem-white;Dragon Ice 
+Abomasnow-mega;Grass Ice 
+Glalie-mega;Ice 
+Sandshrew-alola;Ice Steel 
+Sandslash-alola;Ice Steel 
+Vulpix-alola;Ice 
+Ninetales-alola;Ice Fairy 
+Caterpie;Bug 
+Metapod;Bug 
+Butterfree;Bug Flying 
+Weedle;Bug Poison 
+Kakuna;Bug Poison 
+Beedrill;Bug Poison 
+Paras;Bug Grass 
+Parasect;Bug Grass 
+Venonat;Bug Poison 
+Venomoth;Bug Poison 
+Scyther;Bug Flying 
+Pinsir;Bug 
+Ledyba;Bug Flying 
+Ledian;Bug Flying 
+Spinarak;Bug Poison 
+Ariados;Bug Poison 
+Yanma;Bug Flying 
+Pineco;Bug 
+Forretress;Bug Steel 
+Scizor;Bug Steel 
+Shuckle;Bug Rock 
+Heracross;Bug Fighting 
+Wurmple;Bug 
+Silcoon;Bug 
+Beautifly;Bug Flying 
+Cascoon;Bug 
+Dustox;Bug Poison 
+Surskit;Bug Water 
+Masquerain;Bug Flying 
+Nincada;Bug Ground 
+Ninjask;Bug Flying 
+Shedinja;Bug Ghost 
+Volbeat;Bug 
+Illumise;Bug 
+Anorith;Rock Bug 
+Armaldo;Rock Bug 
+Kricketot;Bug 
+Kricketune;Bug 
+Burmy;Bug 
+Wormadam-plant;Bug Grass 
+Mothim;Bug Flying 
+Combee;Bug Flying 
+Vespiquen;Bug Flying 
+Skorupi;Poison Bug 
+Yanmega;Bug Flying 
+Sewaddle;Bug Grass 
+Swadloon;Bug Grass 
+Leavanny;Bug Grass 
+Venipede;Bug Poison 
+Whirlipede;Bug Poison 
+Scolipede;Bug Poison 
+Dwebble;Bug Rock 
+Crustle;Bug Rock 
+Karrablast;Bug 
+Escavalier;Bug Steel 
+Joltik;Bug Electric 
+Galvantula;Bug Electric 
+Shelmet;Bug 
+Accelgor;Bug 
+Durant;Bug Steel 
+Larvesta;Bug Fire 
+Volcarona;Bug Fire 
+Genesect;Bug Steel 
+Scatterbug;Bug 
+Spewpa;Bug 
+Vivillon;Bug Flying 
+Grubbin;Bug 
+Charjabug;Bug Electric 
+Vikavolt;Bug Electric 
+Cutiefly;Bug Fairy 
+Ribombee;Bug Fairy 
+Dewpider;Water Bug 
+Araquanid;Water Bug 
+Wimpod;Bug Water 
+Golisopod;Bug Water 
+Buzzwole;Bug Fighting 
+Pheromosa;Bug Fighting 
+Wormadam-sandy;Bug Ground 
+Wormadam-trash;Bug Steel 
+Pinsir-mega;Bug Flying 
+Scizor-mega;Bug Steel 
+Heracross-mega;Bug Fighting 
+Beedrill-mega;Bug Poison 
+Vikavolt-totem;Bug Electric 
+Ribombee-totem;Bug Fairy 
+Araquanid-totem;Water Bug 
+Dratini;Dragon 
+Dragonair;Dragon 
+Dragonite;Dragon Flying 
+Kingdra;Water Dragon 
+Vibrava;Ground Dragon 
+Flygon;Ground Dragon 
+Altaria;Dragon Flying 
+Bagon;Dragon 
+Shelgon;Dragon 
+Salamence;Dragon Flying 
+Latias;Dragon Psychic 
+Latios;Dragon Psychic 
+Rayquaza;Dragon Flying 
+Gible;Dragon Ground 
+Gabite;Dragon Ground 
+Garchomp;Dragon Ground 
+Dialga;Steel Dragon 
+Palkia;Water Dragon 
+Giratina-altered;Ghost Dragon 
+Axew;Dragon 
+Fraxure;Dragon 
+Haxorus;Dragon 
+Druddigon;Dragon 
+Deino;Dark Dragon 
+Zweilous;Dark Dragon 
+Hydreigon;Dark Dragon 
+Reshiram;Dragon Fire 
+Zekrom;Dragon Electric 
+Kyurem;Dragon Ice 
+Dragalge;Poison Dragon 
+Tyrunt;Rock Dragon 
+Tyrantrum;Rock Dragon 
+Goomy;Dragon 
+Sliggoo;Dragon 
+Goodra;Dragon 
+Noibat;Flying Dragon 
+Noivern;Flying Dragon 
+Zygarde;Dragon Ground 
+Turtonator;Fire Dragon 
+Drampa;Normal Dragon 
+Jangmo-o;Dragon 
+Hakamo-o;Dragon Fighting 
+Kommo-o;Dragon Fighting 
+Guzzlord;Dark Dragon 
+Naganadel;Poison Dragon 
+Giratina-origin;Ghost Dragon 
+Kyurem-black;Dragon Ice 
+Kyurem-white;Dragon Ice 
+Charizard-mega-x;Fire Dragon 
+Ampharos-mega;Electric Dragon 
+Garchomp-mega;Dragon Ground 
+Latias-mega;Dragon Psychic 
+Latios-mega;Dragon Psychic 
+Sceptile-mega;Grass Dragon 
+Altaria-mega;Dragon Fairy 
+Rayquaza-mega;Dragon Flying 
+Salamence-mega;Dragon Flying 
+Exeggutor-alola;Grass Dragon 
+Zygarde-10;Dragon Ground 
+Zygarde-50;Dragon Ground 
+Zygarde-complete;Dragon Ground 
+Kommo-o-totem;Dragon Fighting 
+Necrozma-ultra;Psychic Dragon 
+Gastly;Ghost Poison 
+Haunter;Ghost Poison 
+Gengar;Ghost Poison 
+Misdreavus;Ghost 
+Shedinja;Bug Ghost 
+Sableye;Dark Ghost 
+Shuppet;Ghost 
+Banette;Ghost 
+Duskull;Ghost 
+Dusclops;Ghost 
+Drifloon;Ghost Flying 
+Drifblim;Ghost Flying 
+Mismagius;Ghost 
+Spiritomb;Ghost Dark 
+Dusknoir;Ghost 
+Froslass;Ice Ghost 
+Rotom;Electric Ghost 
+Giratina-altered;Ghost Dragon 
+Yamask;Ghost 
+Cofagrigus;Ghost 
+Frillish;Water Ghost 
+Jellicent;Water Ghost 
+Litwick;Ghost Fire 
+Lampent;Ghost Fire 
+Chandelure;Ghost Fire 
+Golett;Ground Ghost 
+Golurk;Ground Ghost 
+Honedge;Steel Ghost 
+Doublade;Steel Ghost 
+Aegislash-shield;Steel Ghost 
+Phantump;Ghost Grass 
+Trevenant;Ghost Grass 
+Pumpkaboo-average;Ghost Grass 
+Gourgeist-average;Ghost Grass 
+Hoopa;Psychic Ghost 
+Decidueye;Grass Ghost 
+Sandygast;Ghost Ground 
+Palossand;Ghost Ground 
+Mimikyu-disguised;Ghost Fairy 
+Dhelmise;Ghost Grass 
+Lunala;Psychic Ghost 
+Marshadow;Fighting Ghost 
+Blacephalon;Fire Ghost 
+Giratina-origin;Ghost Dragon 
+Aegislash-blade;Steel Ghost 
+Pumpkaboo-small;Ghost Grass 
+Pumpkaboo-large;Ghost Grass 
+Pumpkaboo-super;Ghost Grass 
+Gourgeist-small;Ghost Grass 
+Gourgeist-large;Ghost Grass 
+Gourgeist-super;Ghost Grass 
+Gengar-mega;Ghost Poison 
+Banette-mega;Ghost 
+Sableye-mega;Dark Ghost 
+Marowak-alola;Fire Ghost 
+Oricorio-sensu;Ghost Flying 
+Mimikyu-busted;Ghost Fairy 
+Mimikyu-totem-disguised;Ghost Fairy 
+Mimikyu-totem-busted;Ghost Fairy 
+Marowak-totem;Fire Ghost 
+Necrozma-dawn;Psychic Ghost 
+Umbreon;Dark 
+Murkrow;Dark Flying 
+Sneasel;Dark Ice 
+Houndour;Dark Fire 
+Houndoom;Dark Fire 
+Tyranitar;Rock Dark 
+Poochyena;Dark 
+Mightyena;Dark 
+Nuzleaf;Grass Dark 
+Shiftry;Grass Dark 
+Sableye;Dark Ghost 
+Carvanha;Water Dark 
+Sharpedo;Water Dark 
+Cacturne;Grass Dark 
+Crawdaunt;Water Dark 
+Absol;Dark 
+Honchkrow;Dark Flying 
+Stunky;Poison Dark 
+Skuntank;Poison Dark 
+Spiritomb;Ghost Dark 
+Drapion;Poison Dark 
+Weavile;Dark Ice 
+Darkrai;Dark 
+Purrloin;Dark 
+Liepard;Dark 
+Sandile;Ground Dark 
+Krokorok;Ground Dark 
+Krookodile;Ground Dark 
+Scraggy;Dark Fighting 
+Scrafty;Dark Fighting 
+Zorua;Dark 
+Zoroark;Dark 
+Pawniard;Dark Steel 
+Bisharp;Dark Steel 
+Vullaby;Dark Flying 
+Mandibuzz;Dark Flying 
+Deino;Dark Dragon 
+Zweilous;Dark Dragon 
+Hydreigon;Dark Dragon 
+Greninja;Water Dark 
+Pangoro;Fighting Dark 
+Inkay;Dark Psychic 
+Malamar;Dark Psychic 
+Yveltal;Dark Flying 
+Incineroar;Fire Dark 
+Guzzlord;Dark Dragon 
+Gyarados-mega;Water Dark 
+Houndoom-mega;Dark Fire 
+Tyranitar-mega;Rock Dark 
+Absol-mega;Dark 
+Sableye-mega;Dark Ghost 
+Sharpedo-mega;Water Dark 
+Hoopa-unbound;Psychic Dark 
+Rattata-alola;Dark Normal 
+Raticate-alola;Dark Normal 
+Raticate-totem-alola;Dark Normal 
+Meowth-alola;Dark 
+Persian-alola;Dark 
+Grimer-alola;Poison Dark 
+Muk-alola;Poison Dark 
+Greninja-battle-bond;Water Dark 
+Greninja-ash;Water Dark 
+Magnemite;Electric Steel 
+Magneton;Electric Steel 
+Forretress;Bug Steel 
+Steelix;Steel Ground 
+Scizor;Bug Steel 
+Skarmory;Steel Flying 
+Mawile;Steel Fairy 
+Aron;Steel Rock 
+Lairon;Steel Rock 
+Aggron;Steel Rock 
+Beldum;Steel Psychic 
+Metang;Steel Psychic 
+Metagross;Steel Psychic 
+Registeel;Steel 
+Jirachi;Steel Psychic 
+Empoleon;Water Steel 
+Shieldon;Rock Steel 
+Bastiodon;Rock Steel 
+Bronzor;Steel Psychic 
+Bronzong;Steel Psychic 
+Lucario;Fighting Steel 
+Magnezone;Electric Steel 
+Probopass;Rock Steel 
+Dialga;Steel Dragon 
+Heatran;Fire Steel 
+Excadrill;Ground Steel 
+Escavalier;Bug Steel 
+Ferroseed;Grass Steel 
+Ferrothorn;Grass Steel 
+Klink;Steel 
+Klang;Steel 
+Klinklang;Steel 
+Pawniard;Dark Steel 
+Bisharp;Dark Steel 
+Durant;Bug Steel 
+Cobalion;Steel Fighting 
+Genesect;Bug Steel 
+Honedge;Steel Ghost 
+Doublade;Steel Ghost 
+Aegislash-shield;Steel Ghost 
+Klefki;Steel Fairy 
+Togedemaru;Electric Steel 
+Solgaleo;Psychic Steel 
+Celesteela;Steel Flying 
+Kartana;Grass Steel 
+Magearna;Steel Fairy 
+Stakataka;Rock Steel 
+Wormadam-trash;Bug Steel 
+Aegislash-blade;Steel Ghost 
+Scizor-mega;Bug Steel 
+Mawile-mega;Steel Fairy 
+Aggron-mega;Steel 
+Lucario-mega;Fighting Steel 
+Steelix-mega;Steel Ground 
+Metagross-mega;Steel Psychic 
+Sandshrew-alola;Ice Steel 
+Sandslash-alola;Ice Steel 
+Diglett-alola;Ground Steel 
+Dugtrio-alola;Ground Steel 
+Magearna-original;Steel Fairy 
+Togedemaru-totem;Electric Steel 
+Necrozma-dusk;Psychic Steel 
+Clefairy;Fairy 
+Clefable;Fairy 
+Jigglypuff;Normal Fairy 
+Wigglytuff;Normal Fairy 
+Mr mime;Psychic Fairy 
+Cleffa;Fairy 
+Igglybuff;Normal Fairy 
+Togepi;Fairy 
+Togetic;Fairy Flying 
+Marill;Water Fairy 
+Azumarill;Water Fairy 
+Snubbull;Fairy 
+Granbull;Fairy 
+Ralts;Psychic Fairy 
+Kirlia;Psychic Fairy 
+Gardevoir;Psychic Fairy 
+Azurill;Normal Fairy 
+Mawile;Steel Fairy 
+Mime jr;Psychic Fairy 
+Togekiss;Fairy Flying 
+Cottonee;Grass Fairy 
+Whimsicott;Grass Fairy 
+Flabebe;Fairy 
+Floette;Fairy 
+Florges;Fairy 
+Spritzee;Fairy 
+Aromatisse;Fairy 
+Swirlix;Fairy 
+Slurpuff;Fairy 
+Sylveon;Fairy 
+Dedenne;Electric Fairy 
+Carbink;Rock Fairy 
+Klefki;Steel Fairy 
+Xerneas;Fairy 
+Diancie;Rock Fairy 
+Primarina;Water Fairy 
+Cutiefly;Bug Fairy 
+Ribombee;Bug Fairy 
+Morelull;Grass Fairy 
+Shiinotic;Grass Fairy 
+Comfey;Fairy 
+Mimikyu-disguised;Ghost Fairy 
+Tapu koko;Electric Fairy 
+Tapu lele;Psychic Fairy 
+Tapu bulu;Grass Fairy 
+Tapu fini;Water Fairy 
+Magearna;Steel Fairy 
+Gardevoir-mega;Psychic Fairy 
+Mawile-mega;Steel Fairy 
+Floette-eternal;Fairy 
+Altaria-mega;Dragon Fairy 
+Audino-mega;Normal Fairy 
+Diancie-mega;Rock Fairy 
+Ninetales-alola;Ice Fairy 
+Mimikyu-busted;Ghost Fairy 
+Mimikyu-totem-disguised;Ghost Fairy 
+Mimikyu-totem-busted;Ghost Fairy 
+Magearna-original;Steel Fairy 
+Ribombee-totem;Bug Fairy 
+Grookey;Grass
+Thwackey;Grass
+Rillaboom;Grass
+Scorbunny;Fire
+Raboot;Fire
+Cinderace;Fire
+Sobble;Water
+Drizzile;Water
+Inteleon;Water
+Blipbug;Bug
+Dottler;Bug Psychic
+Orbeetle;Bug Psychic
+Rookidee;Flying
+Corvisquire;Flying
+Corviknight;Flying Steel
+Skwovet;Normal
+Greedent;Normal
+Nickit;Dark
+Thievul;Dark
+Galarian Zigzagoon;Dark Normal
+Galarian Linoone;Dark Normal
+Obstagoon;Dark Normal
+Wooloo;Normal
+Dubwool;Normal
+Chewtle;Water
+Drednaw;Water Rock
+Yamper;Electric
+Boltund;Electric
+Gossifleur;Grass
+Eldegoss;Grass
+Sizzlipede;Fire Bug
+Centiskorch;Fire Bug
+Rolycoly;Rock
+Carkol;Rock Fire
+Coalossal;RockFire
+Arrokuda;Water
+Barraskewda;Water
+Galarian Meowth;Steel
+Perrserker;Steel
+Milcery;Fairy
+Alcremie;Fairy
+Applin;Grass Dragon
+Flapple;Grass Dragon
+Appletun;Grass Dragon
+Galarian Farfetch'd;Fighting
+Sirfetch'd;Fighting
+Galarian Stunfisk;Ground Steel
+Galarian Corsola;Ghost
+Cursola;Ghost
+Impidimp;Dark Fairy
+Morgrem;Dark Fairy
+Grimmsnarl;Dark Fairy
+Hatenna;Psychic
+Hattrem;Psychic
+Hatterene;Psychic Fairy
+Galarian Weezing;Poison Fairy
+Cufant;Steel
+Copperajah;Steel
+Cramorant;Flying Water
+Toxel;Electric Poison
+Toxtricity;Electric Poison
+Silicobra;Ground
+Sandaconda;Ground
+Galarian Yamask;Ground Ghost
+Runerigus;Ground Ghost
+Galarian Ponyta;Psychic
+Galarian Rapidash;Psychic Fairy
+Sinistea;Ghost
+Polteageist;Ghost
+Indeedee;Psychic Normal
+Morpeko;Electric Dark
+Falinks;Fighting
+Snom;Ice Bug
+Frosmoth;Ice Bug
+Clobbopus;Fighting
+Grapploct;Fighting
+Pincurchin;Electric
+Galarian Mr. mime;Ice Psychic
+Mr. rime;Ice Psychic
+Galarian Darumaka;Ice
+Galarian Darmanitan;Ice
+Stonjourner;Rock
+Eiscue;Ice
+Duraludon;Steel Dragon
+Dracozolt;Electric Dragon
+Arctozolt;Electric Ice
+Dracovish;Water Dragon
+Arctovish;Water Ice
+Dreepy;Dragon Ghost
+Drakloak;Dragon Ghost
+Dragapult;Dragon Ghost
+Zacian;Fairy
+Zamazenta;Fighting
+Eternatus;Poison Dragon

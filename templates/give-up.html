@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Give up</title>
+{% endblock %}
+
+
+{% block body %}
+<div class="container">
+<h2>Nice Try</h2>
+<button type="button" onclick="location.href = '/';" class="btn btn-warning">Start Over</button>
+<h5>You missed:</h5>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+{% if messages %}
+
+{% for message in messages %}
+<div class="alert alert-success">
+                {{ message[1] }}</div>
+{% endfor %}
+{% endif %}
+{% endwith %}
+
+</div>
+{% endblock %}

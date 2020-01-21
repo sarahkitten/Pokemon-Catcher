@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Type</title>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+<h2>Pokemon Catcher</h2>
+<form autocomplete="off" action="" method="post" role="form">
+    {{ form.csrf }}
+<div class="form-group">
+      <label for="name">What type would you like to catch?</label>
+<input type="text" class="form-control" id="name" name="name" autofocus></div>
+<button type="submit" class="btn btn-success">Let's Go</button>
+</form>{% with messages = get_flashed_messages(with_categories=true) %}
+{% if messages %}
+
+{% for message in messages %}
+{% if "Whoops!" not in message[1]: %}
+    {% if "left!" not in message[1]: %}
+    <div class="alert alert-success">
+                <strong>Success! </strong> {{ message[1] }}</div>
+    {% endif %}
+    {% if "left!" in message[1]: %}
+    <div class="alert alert-info">
+                <strong>You can do it! </strong> {{ message[1] }}</div>
+    {% endif %}
+{% endif %}
+
+{% if "Whoops!" in message[1]: %}
+<div class="alert alert-warning">
+                {{ message[1] }}</div>
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endwith %}
+
+</div>
+
+{% endblock %}
